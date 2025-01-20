@@ -13,7 +13,7 @@ public class Compare2Arrays {
 		if(Arrays.equals(a1, a2)) {
 			System.out.println("yes ");
 		}
-		System.out.println("not equal");
+		System.out.println("not    equal");
 		
 		
 //		for(int i=0;i<a1.length;i++) {
