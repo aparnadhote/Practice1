@@ -10,6 +10,7 @@ public class Countcharacter {
 	 public void Charcount(char[] ch) {
 		 for(char c1:ch) {
 			 System.out.println(c1);
+			 System.out.println("hi");
 		 }
 		 
 	 }
